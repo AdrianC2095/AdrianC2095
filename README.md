@@ -1,4 +1,7 @@
-## Hi there 👋
+<div algign="center">
+<h>Hi there I'm Adrian Cuenca <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="35" height="35"><h/> 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+<br><br>
 
 <!--
 **AdrianC2095/AdrianC2095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
