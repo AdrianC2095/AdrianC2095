@@ -3,7 +3,7 @@
 <h1 align="center">Hi there I'm Adrian Cuenca <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="35" height="35" />
 
 # About me
-- I am 19 years old and I'm from Loja-Ecuador <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" width="25" height="25" />
+- I am 20 years old and I'm from Loja-Ecuador <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" width="25" height="25" />
 - I am a computer science engineering student at UTPL <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" alt="School" width="25" height="25" />
 - My hobby is playing video games and listening to music <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" />
 - I am willing to learn and improve every day as time goes by in my career <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />
